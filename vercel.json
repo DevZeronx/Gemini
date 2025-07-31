@@ -1,1 +1,4 @@
-
+{
+  
+  "start": "node api/index.js"
+}
